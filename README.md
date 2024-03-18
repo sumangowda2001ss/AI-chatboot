@@ -4,3 +4,5 @@ Our AI Chatbot project utilizes Python, Streamlit, and the Anthropics API to cre
 **Use Case: Educational AI Chatbot**
 
 This script could be used to build an educational question and answer chatbot. Students could input their questions about various subjects, and the chatbot would generate informative answers based on those questions. For example, students could ask about historical events, scientific concepts, mathematical problems, or language translations, and the chatbot would provide relevant information or explanations. This could serve as a valuable learning tool, providing instant access to knowledge and aiding in comprehension.
+
+![image](https://github.com/sumangowda2001ss/AI-chatboot/assets/157034572/0d6ba7fb-114e-4e94-8171-42a49e6ac465)
