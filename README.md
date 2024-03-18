@@ -1,1 +1,2 @@
 # AI-chatboot
+Our AI Chatbot project utilizes Python, Streamlit, and the Anthropics API to create an interactive conversational interface. Users can input text, triggering the chatbot to generate real-time responses powered by advanced AI models. With a streamlined user experience and versatile applications, our chatbot aims to revolutionize how users engage with technology, offering accessible information retrieval and fostering meaningful interactions. 
